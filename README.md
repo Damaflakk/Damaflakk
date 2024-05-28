@@ -1,4 +1,4 @@
-hello My name is viví
+hello 
 i'm learning...
 <!--
 **Damaflakk/Damaflakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
